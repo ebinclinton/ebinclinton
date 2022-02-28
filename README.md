@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebinclinton
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning NLP and Computer Vision
+- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on ML, DL and NLP
 - 📫 How to reach me ebinclintonr@gmail.com
 
